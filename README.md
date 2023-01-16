@@ -1,4 +1,4 @@
-# amarre_a_tu_crush
+# amarreatucrush
 ya no te podra decir que no : ) <br>
 web sencilla, minimalista y divertida sobre el manejo del DOM y funciones. 
 # Capturas
